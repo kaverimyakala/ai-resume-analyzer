@@ -1,0 +1,22 @@
+Experience: 9 + years of overall experience
+
+Primary Skill (Must-have/Mandatory): JavaScript, Typescript, ReactJS
+Secondary Skill (Good-to-have/Optional): Angular.js, Splunk, Cypress
+
+Location: Pune (Hybrid)
+Shift (IST): General Shift (IST Hours)
+Frontend Software Developer with 9+ years of experience.
+The candidate should be proficient in JavaScript, Typescript, and Angular.js.
+Exposure to complex frontend development applications, and ready to onboard quickly.
+Participate in software design meetings and analyze user needs to determine technical requirements.
+Closely supervised with little latitude for independent judgment.
+Design, develop, document, test, and debug new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use.
+Write technical specifications based conceptual design and stated business requirements. 
+Support, maintain, and document software functionality.
+Consult with end users to prototype, refine, test, and debug programs to meet needs.
+Conducts routine tasks as directed. 
+Serve as a technical expert on development projects.
+Participate in the full development life cycle, including requirements analysis and design.
+Support, maintain, and document software functionality.
+Identify and evaluate new technologies for implementation.
+Analyze code to identify error causes and reprogram as needed. 
